@@ -6,7 +6,9 @@ public class Euklides {
 
 
         Integer nwd = nwd(15,5);
-        System.out.println(nwd);
+        System.out.println("Największy wspólny dzielnik liczb 15 i 5 to: "+nwd);
+
+        System.out.println("Koniec");
 
     }
 
